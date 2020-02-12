@@ -1,5 +1,0 @@
-name = input('Введите ваше имя: ')
-birth_year = int(input('Введите год вашего рождения: '))
-year = int(input('Какой сейчас год: '))
-print('Добрый день,', name)
-print('Ваш возраст ', year - birth_year)
